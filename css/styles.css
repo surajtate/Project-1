@@ -1,0 +1,15 @@
+body{
+  background-color: #ECFBFC;
+  text-align: center;
+}
+.span-1{
+   text-decoration: underline;
+}
+.upper-cloud{
+  position: absolute;
+      right: 400px;
+}
+.lower-cloud{
+  position: absolute;
+    left: 350px;
+}
